@@ -1,0 +1,36 @@
+h1{
+    font-family: sans-serif;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+h2{
+
+    font-size: 50px;
+    font-weight: 400;
+    font-style: italic;
+    color: #800080;
+
+
+}
+
+h3{
+    font-size: 35px;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255,196,206);
+
+}
+
+p {
+    font-size: 40px;
+    line-height: 70px;
+    letter-spacing: 10px;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
